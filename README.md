@@ -108,4 +108,5 @@ A: Yes! Binance Testnet is fully supported for practice.
 Phone: +250 795065789 / +250 794115295
 
 *⚖️ Disclaimer*
+
 Trading cryptocurrency involves significant risk of loss. Past performance does not guarantee future results. This software is provided "as is" without warranty.
